@@ -112,3 +112,16 @@
         top: -60px;
     }
 }
+@media  only screen and (min-width:1200px){
+    .j{
+        position: relative;
+        right:120px;
+        top: -1px;
+        
+    }
+    .n{
+        position: relative;
+       left: 500px;
+        top: -60px;
+    }
+}
